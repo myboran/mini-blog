@@ -6,6 +6,4 @@ hello git
 hello git
 hello git
 
-add2
-
 hot-fix
